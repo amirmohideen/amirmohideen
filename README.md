@@ -1,16 +1,17 @@
-### Hi there 👋
+<!--  [Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg) -->!
+
+# Amir Mohideen
+Bachelor's in Computer Engineering at American University of Sharjah, UAE
+Master's in Computer Science at Cal Poly Pomona, CA, USA
+Intern at Equinix in Singapore
+Intern at Rizek in Dubai, UAE
+
+## Skills
+* ⚛ C#
+* 📱 Unity
+* 💻 Python
 
 <!--
-**amirmohideen/amirmohideen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Examples of Work
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+-->!
