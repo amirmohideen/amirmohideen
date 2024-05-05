@@ -1,6 +1,3 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-
-<p align="center">
 # Amir Mohideen
 Aspiring to be a Market Leader in Virtual & Augmented Reality 🥇
 * 🎓Bachelor's in Computer Engineering at American University of Sharjah, UAE
@@ -13,6 +10,5 @@ Aspiring to be a Market Leader in Virtual & Augmented Reality 🥇
 * ⚛ C#
 * 📱 Unity
 * 💻 Python
-</p>
 
 ![](https://komarev.com/ghpvc/?username=amirmohideen&color=blueviolet)
