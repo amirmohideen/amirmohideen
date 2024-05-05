@@ -1,5 +1,3 @@
-<!--  [Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg) -->
-
 # Amir Mohideen
 Aspiring to be a Market Leader in Virtual & Augmented Reality 🥇
 * 🎓Bachelor's in Computer Engineering at American University of Sharjah, UAE
@@ -12,8 +10,3 @@ Aspiring to be a Market Leader in Virtual & Augmented Reality 🥇
 * ⚛ C#
 * 📱 Unity
 * 💻 Python
-
-<!--
-## Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
--->
