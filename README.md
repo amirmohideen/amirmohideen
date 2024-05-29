@@ -17,16 +17,17 @@ I'm aspiring to be a Market Leader in Virtual & Augmented Reality 🥇
 ##
 [![ghpvc](https://komarev.com/ghpvc/?username=amirmohideen&color=blueviolet)](https://github.com/amirmohideen)
 
-
 <!--
 ### WakaTime Coding Activity
 [![wakatime](https://wakatime.com/badge/user/9699969e-77ca-4c31-b3d5-636b2dbbbe17.svg)](https://wakatime.com/@9699969e-77ca-4c31-b3d5-636b2dbbbe17)
 
 ##### Total Time
 <a href="https://wakatime.com/@amir99" title="Data update every midnight"><img src="https://wakatime.com/badge/user/9699969e-77ca-4c31-b3d5-636b2dbbbe17.svg?style=for-the-badge" alt="Wakatime weekly coding activity Tracker" /></a>
+-->
 
-##### Activity
-<a href="https://wakatime.com/@amir99" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=amir99&layout=compact&langs_count=6" alt="Wakatime weekly coding actitvity languages" /></a>
+<!--
+##### Coding Activity
+<a href="https://wakatime.com/@amir99" title="Data update every midnight"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=amir99&layout=compact&langs_count=6&color=black" alt="Wakatime weekly coding activity languages" /></a>
 -->
 
 <!--
