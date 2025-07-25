@@ -1,10 +1,10 @@
 # Hello👋
 I'm aspiring to be a Market Leader in Virtual & Augmented Reality 🥇
+* 🎓Master's in Computer Science at California State Polytechnic University, Pomona, CA, USA
 * 🎓Bachelor's in Computer Engineering at American University of Sharjah, UAE
-* 🎓Master's in Computer Science at Cal Poly Pomona, CA, USA
 * 🎥Posts Content on XR and Personal Brand Development
-* 🧑‍💻Intern at Equinix in Singapore
-* 🧑‍💻Intern at Rizek in Dubai, UAE
+* 🧑‍💻Interned at Equinix in Singapore
+* 🧑‍💻Interned at Rizek in Dubai, UAE
 
 ## Skills
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/amirmohideen)
