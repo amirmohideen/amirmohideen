@@ -1,5 +1,5 @@
 # Hello👋
-I'm aspiring to be a Market Leader in Virtual & Augmented Reality 🥇
+I'm an XR, VR App & Game Developer! 🥽🧑‍💻
 * 🎓Master's in Computer Science at California State Polytechnic University, Pomona, CA, USA
 * 🎓Bachelor's in Computer Engineering at American University of Sharjah, UAE
 * 🎥Posts Content on XR and Personal Brand Development
