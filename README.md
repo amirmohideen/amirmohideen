@@ -1,10 +1,10 @@
 # Hello👋
-I'm an XR, VR App & Game Developer! 🥽🧑‍💻
-* 🎓Master's in Computer Science at California State Polytechnic University, Pomona, CA, USA
-* 🎓Bachelor's in Computer Engineering at American University of Sharjah, UAE
-* 🎥Posts Content on XR and Personal Brand Development
+I blow people's minds using immersive experiences! 🥽🤯
+* 🧑‍💻Lead XR Developer at CreatorUp in LA, CA, USA
 * 🧑‍💻XR Solutions Engineer at Knoxlabs in LA, CA, USA
-* 🧑‍💻VR Developer at CreatorUp in LA, CA, USA
+* 🎥Posts Content on XR and Personal Brand Development
+* 🎓Bachelor's in Computer Engineering at American University of Sharjah, UAE
+* 🎓Master's in Computer Science at California State Polytechnic University, Pomona, CA, USA
 
 ## Skills
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/amirmohideen)
