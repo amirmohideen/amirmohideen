@@ -9,13 +9,23 @@ I blow people's minds using immersive experiences! 🥽🤯
 ## Skills
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/amirmohideen)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/amirmohideen)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/amirmohideen)
+<img src="https://img.shields.io/badge/OpenXR-5C2D91?style=for-the-badge&logo=virtualreality&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebXR-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meta_SDK-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Horizon_Worlds-0A66C2?style=for-the-badge&logo=meta&logoColor=white"/>
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/amirmohideen)
+
+##
+[![ghpvc](https://komarev.com/ghpvc/?username=amirmohideen&color=blueviolet)](https://github.com/amirmohideen)
+
+<!--
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/amirmohideen)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/amirmohideen)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/amirmohideen)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-##
-[![ghpvc](https://komarev.com/ghpvc/?username=amirmohideen&color=blueviolet)](https://github.com/amirmohideen)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://github.com/amirmohideen)
+-->
 
 <!--
 ### WakaTime Coding Activity
