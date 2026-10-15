@@ -1,7 +1,7 @@
 # Hello👋
 I blow people's minds using immersive experiences! 🥽🤯
+* 🤝Robotics/XR Solutions Engineer at Knoxlabs in LA, CA, USA
 * 🧑‍💻Lead XR Developer at CreatorUp in LA, CA, USA
-* 🤝XR Solutions Engineer at Knoxlabs in LA, CA, USA
 * 🎥Posts Content on XR and Personal Brand Development
 * 🎓Bachelor's in Computer Engineering at American University of Sharjah, UAE
 * 🎓Master's in Computer Science at California State Polytechnic University, Pomona, CA, USA
